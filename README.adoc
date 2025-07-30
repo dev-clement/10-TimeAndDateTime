@@ -1,0 +1,11 @@
+= QTime and QDateTime in QML and Cpp
+In this article, we'll see how we can use QTime and QDateTime on QML as well as Cpp
+
+:toc:
+:sectnums:
+
+== Introduction
+Using this example of `QTime` and `QDateTime` we'll be able to explore the exchange of data between QML and Cpp. And see the conversions.
+
+NOTE: We'll do what we did on the previous article, that means we'll create one class, that will contains signals and slots. For send information, and method we'll call to send data from QML to Cpp.
+
